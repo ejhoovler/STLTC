@@ -7,8 +7,9 @@ header,
 }
 
 #intro {
-  background: url("./img/jason-leung-HM6TMmevbZQ-unsplash.jpg") no-repeat center
-    center fixed;
+  background-image: url("./img/jason-leung-HM6TMmevbZQ-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
