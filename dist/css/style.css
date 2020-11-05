@@ -15,3 +15,7 @@ header,
   -o-background-size: cover;
   background-size: cover;
 }
+
+.card-title {
+  background-color: peach-gradient;
+}
