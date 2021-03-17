@@ -6,6 +6,16 @@ header,
   font-family: "Calligraffitti";
 }
 
+hr {
+  margin: 1.5em;
+  padding: 1.5em;
+}
+
+p {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+}
+
 #intro {
   background-image: url("./img/jason-leung-HM6TMmevbZQ-unsplash.jpg");
   background-position: center;
